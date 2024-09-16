@@ -1,7 +1,7 @@
 <h1>Hi, I'm Christian!</h1>
 
 <h2>📚Education</h2>
-    <h3>The Pennsylvania State University</h3>
+    <h3>The Pennsylvania State University🔵⚪️</h3>
         - B.S. Cybersecurity Analytics and Operations<br/>
         - Minor Security & Risk Analysis<br/>
         - Undergraduate Certificate Information Sciences & Technology<br/>
