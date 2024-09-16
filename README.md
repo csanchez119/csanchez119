@@ -1,11 +1,12 @@
 <h1>Hi, I'm Christian!</h1>
 
 <h2>📚Education</h2>
-    <h3>The Pennsylvania State University🔵⚪️</h3>
-        - B.S. Cybersecurity Analytics and Operations<br/>
-        - Minor Security & Risk Analysis<br/>
-        - Undergraduate Certificate Information Sciences & Technology<br/>
-        - Undergraduate Certificate NSA CAE-CD<br/>
+<h3>The Pennsylvania State University🔵⚪️</h3>
+
+- B.S. Cybersecurity Analytics and Operations
+- Minor Security & Risk Analysis
+- Undergraduate Certificate Information Sciences & Technology
+- Undergraduate Certificate NSA CAE-CD
 
 <h2>📝Certifications</h2>
 
@@ -19,6 +20,8 @@
 
 <h2>🤝Lets Connect</h2>
 
-[<img align="left" alt="ChristianSanchez | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ChristianSanchez | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ChristianSanchez | Credly" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.10.0/icons/credly.svg" />][Credly]
 
 [linkedin]: https://www.linkedin.com/in/christiansanchez19/
+[Credly]: https://www.credly.com/users/christian-sanchez.9464217c
