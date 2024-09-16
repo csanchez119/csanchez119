@@ -12,9 +12,9 @@
   - CompTIA IT Fundamentals+<br/>
   
 <h2>Cybersecurity Projects:</h2>
-  - SIEM Lab<br/>
-  - Python Script<br/>
-  - Extra<br/>
+
+[SIEM Lab - Live RDP Brute Force](https://github.com/csanchez119/SIEM-Lab)
+
 
 <h2>Lets Connect:</h2>
 
