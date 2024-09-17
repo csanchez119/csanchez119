@@ -6,7 +6,7 @@
 - B.S. Cybersecurity Analytics and Operations
 - Minor Security & Risk Analysis
 - Undergraduate Certificate Information Sciences & Technology
-- Undergraduate Certificate NSA CAE-CD
+- Undergraduate Certificate National Security Agency IST
 
 <h2>📝Certifications</h2>
 
