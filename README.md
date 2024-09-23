@@ -16,6 +16,7 @@
 <h2>👨‍💻Cybersecurity Projects</h2>
 
 - [SIEM Lab - Live RDP Brute Force](https://github.com/csanchez119/SIEM-Lab)
+- [Python Log Parser](https://github.com/csanchez119/Python-Log-Parser)
 
 
 <h2>🤝Lets Connect</h2>
