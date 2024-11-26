@@ -17,6 +17,7 @@
 
 - [SIEM Lab - Live RDP Brute Force](https://github.com/csanchez119/SIEM-Lab)
 - [Python Log Parser](https://github.com/csanchez119/Python-Log-Parser)
+- [AWS Cybersecurity Homelab](https://github.com/csanchez119/AWS-Cybersecurity-Homelab)
 
 
 <h2>🤝Lets Connect</h2>
