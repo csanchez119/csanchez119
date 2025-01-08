@@ -8,6 +8,10 @@
 - Undergraduate Certificate Information Sciences & Technology
 - Undergraduate Certificate National Security Agency IST
 
+<h3>Western Governors University</h3>
+
+- M.S. Cybersecurity and Information Assurance (Current)
+
 <h2>📝Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/26e3a6dd-1b4a-4104-8b38-a5701a76f2b2/linked_in_profile) <br/>
