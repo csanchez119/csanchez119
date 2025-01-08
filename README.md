@@ -8,7 +8,7 @@
 - Undergraduate Certificate Information Sciences & Technology
 - Undergraduate Certificate National Security Agency IST
 
-<h3>Western Governors University</h3>
+<h3>Western Governors University🦉</h3>
 
 - M.S. Cybersecurity and Information Assurance (Current)
 
